@@ -24,3 +24,4 @@ $RECYCLE.BIN/
 *.lnk
 
 *.env.local
+*.env.production.local
